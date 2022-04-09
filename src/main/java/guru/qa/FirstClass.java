@@ -53,8 +53,5 @@ public class FirstClass {
 
         n += 19;
         System.out.println("n += 19 - " + n);
-
     }
-
-
 }
